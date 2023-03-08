@@ -14,4 +14,18 @@ elif action_input == 'w':
 else: 
     print("The submitted direction is wrong; try again")
 
+#all of the above but also demonstrating accountability for capital letters 
+
+if action_input == 'n' or action_input == 'N':
+    print("You're going North, Soldier")
+elif action_input == 'e' or action_input == 'E':
+    print("You're going East, Soldier")
+elif action_input == 's' or action_input == 'S': 
+    print("You're going South, Soldier")
+elif action_input == 'w' or action_input == 'W':
+    print("You're going West, Soldier")
+else: 
+    print("You're going nowhere at all")
+
+
 
