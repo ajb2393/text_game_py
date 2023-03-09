@@ -17,5 +17,6 @@ elif m < 250:
 else: 
     print("Half a ticket all in")
 
+print("God has you")
 
 
