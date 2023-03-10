@@ -18,5 +18,5 @@ else:
     print("Half a ticket all in")
 
 print("God has you")
-
+print("Keep Going")
 
