@@ -20,4 +20,5 @@ else:
 print("God has you")
 print("Keep Going")
 print("More")
+print("I own you all")
 print("Currently working on my AirBnB business!")
