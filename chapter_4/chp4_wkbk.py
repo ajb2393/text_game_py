@@ -24,3 +24,5 @@ print("I own you all")
 print("Currently working on my AirBnB business!")
 print("I woke up early this morning")
 print("I need to get better")
+print("Progression is a must!")
+
